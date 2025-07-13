@@ -1,3 +1,38 @@
-{
-    
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+.box {
+
+    background-color:rgb(232, 237, 229);
+
+}
+
+.footer {
+
+    height: 90px;
+    background: #2f71eb 0% 0% no-repeat padding-box;
+    opacity: 0.94;
+
+}
+
+.footer p {
+
+    text-align: center;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: white;
+    opacity: 1;
+    padding: 39px;
+    padding-bottom: 39px;
+    font-size: 24px;
+
+
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
 }
