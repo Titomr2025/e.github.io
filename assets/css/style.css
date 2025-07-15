@@ -1,18 +1,28 @@
 * {
     margin: 0;
     padding: 0;
-
-
+   
 }
+
+.custom-card-bg {
+  background-color: #e9ecef; 
+}
+
+
+
 .box {
 
-    background-color:rgb(232, 237, 229);
+    background-color: rgb(232, 237, 229);
 
+}
+
+.fondo-negro {
+    background-color: rgba(16, 14, 14, 0.976);
 }
 
 .footer {
 
-    height: 90px;
+    height: 100px;
     background: #2f71eb 0% 0% no-repeat padding-box;
     opacity: 0.94;
 
@@ -35,4 +45,19 @@
 .footer a {
     color: white;
     text-decoration: none;
+}
+.footer-last{
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+
+}
+.footer-last p {
+    text-align: center;
+    font: normal normal 300 20px/24px Raleway;
+    letter-spacing: 0px;
+    color: white;
+    opacity: 1;
+    padding: 39px;
+    padding-bottom: 39px;
+    font-size: 24px;
 }

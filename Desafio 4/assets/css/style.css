@@ -1,0 +1,23 @@
+.bg-color-cuppom {
+    background-color: #28A745;
+}
+
+.text-blanco-cuppom {
+    color: white;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+span {
+    color: #707070;
+    opacity: 1;
+}
+
+strong {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
