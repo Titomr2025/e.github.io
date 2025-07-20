@@ -1,11 +1,11 @@
 
 ## Descripcion
-Este es mi curriculum vitae
+Este es mi Curriculum Vitae
 
- ##  Se gegeraron 2 commits
-  1 -agrege un commit a JULIOCMH/JULIOCMH.github.io " inclui un Dropdowns en su Curriculum"
+ ##  Se generaron 2 commits a dos compañeros
+  1 -agregé un commit a JULIOCMH/JULIOCMH.github.io " incluí un Dropdowns en su Curriculum"
  
- 2 -  agrege un commit a  Mhtitoandres95/Examen-final " inclui un carrusel de imagenes en su portafolio"
+ 2 -  agregé un commit a  Mhtitoandres95/Examen-final " incluí un carrusel de imagenes en su portafolio"
 
 ## AUTOR
 Tito Martinez
